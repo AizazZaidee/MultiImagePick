@@ -3,3 +3,6 @@ This is just extension to https://github.com/luminousman/MultipleImagePick. I ad
 2) Sort by Date Descending 
 
 @See MainActivity.java for more detail
+
+> See this also, it provides ability to select from seperate folders, more user friendly
+> https://github.com/AizazAZ/Android-Ultra-Photo-Selector 
